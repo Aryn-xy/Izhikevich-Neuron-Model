@@ -8,10 +8,10 @@ u' = a(bv - u)
 
 ## Parameters
 
-- a, b, c, d: Model constants defining neuron dynamics  
-- I: Input current  
-- T: Total simulation time  
-- dt: Time step for simulation  
+- a, b, c, d: Model constants defining neuron dynamics
+- I: Input current
+- T: Total simulation time
+- dt: Time step for simulation 
 
 ## Sample Output
 
