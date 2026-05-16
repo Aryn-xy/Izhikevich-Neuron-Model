@@ -4,7 +4,7 @@ This project simulates a single neuron using the Izhikevich model, which capture
 The neuron updates its membrane potential (v) and recovery variable (u) at each time step using Izhikevich model equation:
 
 v' = 0.04v² + 5v + 140 - u + I  
-u' = a(bv - u)  
+u' = a(bv - u) 
 
 ## Parameters
 
